@@ -5,7 +5,7 @@
 
 ### University Miguel Hernandez, Spain
 
-## Objetive
+## Objective
 
 This repository contains the R scripts of the *Application to real data* from the paper entlited "Small area estimation of labour force indicators under unit-level multinomial mixed models".
 
